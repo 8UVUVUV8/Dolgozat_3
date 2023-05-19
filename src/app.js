@@ -1,3 +1,13 @@
+/*
+File: app.js
+Author: Szekeres András
+Copyright: 2023, Szekeres András
+Group: Szoft I-2 N
+Date: 2023-05-19
+Github: https://github.com/8UVUVUV8/
+Licenc: GNU GPL
+*/
+
 const select ={
     tbod: document.querySelector('#táblaTESSST')
 };
